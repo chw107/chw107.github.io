@@ -1,0 +1,59 @@
+ /* Carousel image sizes */
+        #hobbyCarousel .carousel-item img {
+            width: 800px; /* responsive width */
+            height: 800px; /* keep the height fixed height */
+            object-fit: cover; /* don't want the image to be distorted */
+        }
+
+navbar-brand{
+    text-align: center;
+}
+
+.row{
+    padding: 0 30px;
+}
+
+.col-sm-6{
+    padding-bottom: 15px ;
+}
+
+.about{
+    color: aliceblue;
+}
+
+.card-title{
+    color: rgb(255, 0, 166);
+}
+
+.card{
+    background-color: rgb(185, 255, 22);
+    box-shadow: 10px 10px;
+}
+
+.card-text{
+    color: rgb(56, 109, 34);
+}
+
+body{
+    background-color: olive;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#portfolio-stuff{
+    background-color: rgb(155, 155, 101);
+    margin: 30px 10px;
+}
+
+.portfolio-text{
+    color: rgb(87, 0, 82);
+    padding: 1% 1%;
+}
+
+#hobbyCarousel{
+    padding-bottom: 40px ;
+}
+
+#footer{
+    color: beige;
+    text-align: center;
+}
